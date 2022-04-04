@@ -1,0 +1,16 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+header div {
+  background-color: rgb(32, 162, 255);
+  background-image: url(../img/pattern.png);
+  background-size: 450px 210px;
+}
+
+#logo {
+  padding-top: 50px;
+  padding-left: 10px;
+  width: 200px;
+}
