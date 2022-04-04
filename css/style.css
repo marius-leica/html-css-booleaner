@@ -14,3 +14,75 @@ header div {
   padding-left: 10px;
   width: 200px;
 }
+
+main {
+  margin-left: 10px;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+.grey-text {
+  color: grey;
+}
+
+h3 {
+  margin: 0;
+  font-weight: lighter;
+}
+
+h3 span {
+  color: rgb(118, 202, 239);
+}
+
+.small-text {
+  font-size: 10px;
+  margin-top: 0;
+}
+
+figure {
+  display: inline-block;
+  margin: 0;
+}
+
+ul {
+  padding-left: 15px;
+}
+
+table {
+  border-collapse: collapse;
+  text-align: left;
+}
+
+thead {
+  background-color: rgb(32, 169, 229);
+}
+
+.color-blue {
+  background-color: #b1e5f2;
+}
+
+.width-25 {
+  width: 25%;
+}
+
+.first-img {
+  width: 25%;
+  height: 200px;
+  background-image: url(../img/monitor.jpg);
+}
+.second-img {
+  background-image: url(../img/graph.jpg);
+  width: 25%;
+  height: 200px;
+}
+
+h4 {
+  color: #fff;
+  padding-top: 10px;
+}
+
+.padding-left {
+  padding-left: 10px;
+}
