@@ -6,8 +6,8 @@ body {
 header div {
   background-color: rgb(32, 162, 255);
   background-image: url(../img/pattern.png);
-  background-size: 450px 210px;
-} /*come background-size: bastava avere solo la width a 340px*/
+  background-size: 340px;
+}
 
 #logo {
   padding-top: 50px;
